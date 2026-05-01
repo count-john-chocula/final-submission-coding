@@ -1,0 +1,54 @@
+main{
+    
+display:flex;
+justify-content: space-around;    
+flex-direction: row; 
+flex-wrap: wrap;  
+gap:5px;
+
+
+}
+
+body{
+    
+background-color: cornflowerblue; 
+font-family: sans-serif;
+    
+}
+
+nav{
+    
+    background-color: cornflowerblue   
+}
+
+header{
+    
+    background-color: cornflowerblue;
+    
+}
+
+main>div{
+    
+border: 2px black solid;   
+border-radius: 10px;
+    background-color: darkgray;
+
+}
+main>div>h2{
+    
+    margin: auto;
+    width: 50%;
+    
+}
+main>div>h3{
+    
+    margin: auto;
+    width: 50%;
+    
+}
+main>div>p{
+    
+    margin: auto;
+    width: 50%;
+    
+}

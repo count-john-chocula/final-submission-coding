@@ -1,0 +1,16 @@
+nav{
+    background-color: blueviolet;
+    position: fixed;
+    bottom: 0px;
+}
+
+nav#scenes{
+    background-color: blueviolet;
+    position: fixed;
+    bottom:35px;
+}
+a{
+    color: aqua;
+    font-size: 26pt;
+    
+}
